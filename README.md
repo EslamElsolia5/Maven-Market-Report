@@ -15,5 +15,21 @@ This is a Business Intelligence dashboard built with Power BI for Maven Market d
 - Detailed customer and product insights were gathered and presented on a separate notes page.
 
 ---
+## Project Files
+
+- **MavenMarketDashboard.pbix**  
+  ➔ The main Power BI file containing the complete dashboard and analysis.
+
+- **Dashboard-Overview.png**  
+  ➔ Screenshot of the main dashboard overview.
+
+- **Customer-Analysis.png**  
+  ➔ Screenshot of the customer-focused analysis page.
+
+- **Notes-Page.png**  
+  ➔ Screenshot showing the notes and insights about products and customers.
+
+- **README.md**  
+  ➔ This file! A complete description of the project, features, and file contents.
 
 Built with Power BI | Data Analysis | Maven Market Dataset
